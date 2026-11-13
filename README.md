@@ -1,6 +1,5 @@
 # Bank Customer Churn Analytics and Prediction
 
-**Harshit Kumar** · [GitHub](https://github.com/harshit-kumar-2912)
 
 My banking customer churn analytics portfolio project brings together SQL, Python, statistics, machine learning, and Tableau. It explores customer churn through data preparation, relational analysis, statistical testing, and predictive modeling.
 
@@ -52,8 +51,3 @@ To execute the Python and SQL workflows, install the packages used by the script
 
 The repository contains analysis and model experiments. It does not include a deployed prediction service or a consolidated automated training command.
 
-## About me
-
-I'm Harshit Kumar. This repository is part of my data analytics and machine learning portfolio, with a focus on connecting customer data analysis to practical business questions.
-
-[View my GitHub profile](https://github.com/harshit-kumar-2912)
